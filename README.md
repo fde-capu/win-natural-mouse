@@ -19,15 +19,15 @@ If you work back and forth on Mac and MS, this is probably the reason you landed
 Make good use of this script, at your own risk.
 
 - Usage:
-		- Option 1
-				- Right click the **ps1** file and go **Run with Powershell**.
-		- Option 2
-				- Edit the **lnk** to correspond your folders (not mine), so you can further on bypass the *Option 1* two clicks and use a *double click* instead.
-		- Option 2 **Extra**
-				- Put the **lnk** files into your `%appdata%\Microsoft\Windows\Start Menu` folder, then you can
-				- right click and pin them to the Start Menu
-		- Option 3
-				- Stick these files into your ______! <-- name any *folder* or *shortcut bar* you want.
+	- Option 1
+		- Right click the **ps1** file and go **Run with Powershell**.
+	- Option 2
+		- Edit the **lnk** to correspond your folders (not mine), so you can further on bypass the *Option 1* two clicks and use a *double click* instead.
+	- Option 2 **Extra**
+		- Put the **lnk** files into your `%appdata%\Microsoft\Windows\Start Menu` folder, then you can
+		- right click and pin them to the Start Menu
+	- Option 3
+		- Stick these files into your ______! <-- name any *folder* or *shortcut bar* you want.
 
 -----
 
